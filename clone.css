@@ -41,9 +41,7 @@
     background-repeat: repeat-x;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe3bf23',endColorstr='#ffd7a31a',GradientType=0);
     color: #fff;
-    text-shadow: 0 1px 1px #644606; 
-   color: #fff;
-    text-shadow: 0 1px 1px #644606;
+    text-shadow: 1px 1px 1px #000;
     height: 22px;
     border-radius: 5px 5px 0px 0px;
     padding: 10px 0px 0px 0px;
