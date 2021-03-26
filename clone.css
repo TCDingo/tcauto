@@ -151,7 +151,7 @@ button {
 }
 
 .avatarsize {
-    width: 35px;
+    width: 28px;
     float: left;
     padding: 0px 6px 8px 3px;
 }
@@ -161,5 +161,6 @@ button {
     margin-top: 14px; 
 }
 .avatarsize2 {
-    width: 45px;
+ width: 38px;
+    float: left;
 }
