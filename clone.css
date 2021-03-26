@@ -156,5 +156,7 @@ button {
     padding: 0px 6px 8px 3px;
 }
 .avatarchange {
-    
+   width: 100%;
+    text-align: center;
+    margin-top: 14px; 
 }
