@@ -30,3 +30,16 @@
 .ttauto {
     
 }
+
+.ttautohdr {
+ background-color: #deb41f;
+    background-image: -moz-linear-gradient(top,#e3bf23,#d7a31a);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#e3bf23),to(#d7a31a));
+    background-image: -webkit-linear-gradient(top,#e3bf23,#d7a31a);
+    background-image: -o-linear-gradient(top,#e3bf23,#d7a31a);
+    background-image: linear-gradient(to bottom,#e3bf23,#d7a31a);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe3bf23',endColorstr='#ffd7a31a',GradientType=0);
+    color: #fff;
+    text-shadow: 0 1px 1px #644606;   
+}
