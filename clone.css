@@ -152,4 +152,6 @@ button {
 
 .avatarsize {
     width: 35px;
+    float: left;
+    padding: 0px 6px 8px 3px;
 }
