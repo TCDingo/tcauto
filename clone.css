@@ -1,5 +1,5 @@
 .pluggedTT {
-    position: absolute;
+    position: sticky;
     z-index: 10;
     bottom: 3em;
     padding: 0.5em;
